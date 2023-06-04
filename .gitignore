@@ -1,0 +1,30 @@
+# Python specific
+*.pyc
+__pycache__/
+venv/
+*.egg-info/
+
+# Editor and IDE files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Environment variables
+.env
+
+# Dependency directories
+publikum/
+node_modules/
+
+# Compiled files
+*.pyc
+
+# Log files
+*.log
+
+# Cache and temporary files
+.cache/
+.tmp/
+
+# Ignore project-specific configuration files if any
